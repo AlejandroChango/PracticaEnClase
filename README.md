@@ -1,6 +1,7 @@
 # flutter_application_1
 
 A new Flutter project.
+![image](https://github.com/AlejandroChango/PracticaEnClase/assets/23177104/bb509a0d-6bea-4bcc-b72c-6e13cb63db0b)
 
 ## Getting Started
 
